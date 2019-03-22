@@ -1,0 +1,52 @@
+Log file for fint program
+Start at Sun Jul  8 21:08:58 2018 
+Mode = d 
+target directory = /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools 
+Sentence to find = Del_Space 
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/MYSQL/__pycache__/mysql.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/MYSQL/__pycache__/mysql.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/MYSQL/__pycache__/MYSQL.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/MYSQL/__pycache__/MYSQL.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/MYSQL/mysql.py.backup
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/MYSQL/MYSQL.py
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/write_to/write_to.py
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/__pycache__/logg.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/__pycache__/logg.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/__pycache__/get_values_HTML.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/__pycache__/get_values_HTML.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/__pycache__/MYSQL.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/__pycache__/MYSQL.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/__pycache__/printt.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/__pycache__/printt.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/__pycache__/backup.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/__pycache__/backup.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/crypto/crypto.py
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/file_manager/__pycache__/file_manager.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/file_manager/__pycache__/file_manager.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/file_manager/file_manager.py
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/HTML/__pycache__/get_values_HTML.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/HTML/__pycache__/get_values_HTML.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/HTML/__pycache__/HTML.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/HTML/__pycache__/HTML.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/HTML/__pycache__/hit_the.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/HTML/__pycache__/hit_the.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/HTML/HTML.py
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/HTML/testred
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/backup/__pycache__/backup.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/backup/__pycache__/backup.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/backup/backup.py
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/logg/__pycache__/logg.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/logg/__pycache__/logg.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/logg/logg.py
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/address/__pycache__/address.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/address/__pycache__/address.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/address/address.py
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/printt/__pycache__/printt.cpython-35.pyc
+error while scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/printt/__pycache__/printt.cpython-35.pyc
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/printt/printt.py
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/fint.log
+scanning /root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/test_qt.py
+result:(finish)
+/root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/logg/logg.py
+/root/programming/BigProject/OWS/OWS_FILES/OWS_Tools/fint.log
+end at Sun Jul  8 21:08:58 2018
